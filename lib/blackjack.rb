@@ -38,6 +38,7 @@ def hit?(total)
       total += deal_card
       total
     end
+    total
 end
 
 def invalid_command
