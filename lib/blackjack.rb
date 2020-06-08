@@ -23,7 +23,8 @@ def end_game(total)
 end
 
 def initial_round
-  
+  first_result = deal_card
+  second_result = deal_card
 end
 
 def hit?
