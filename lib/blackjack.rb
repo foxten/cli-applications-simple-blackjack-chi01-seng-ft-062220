@@ -36,7 +36,7 @@ def hit?(total)
     elsif input == "s"
       total
     else
-      "Please enter a valid command"
+      puts "Please enter a valid command"
       prompt_user
     end
   total
